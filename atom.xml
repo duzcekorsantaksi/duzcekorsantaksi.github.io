@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Düzce Korsan Taksi | Sabiha Gökçen Yolu ve Akçakoca</title>
+  <link href="https://duzcekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://duzcekorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://duzcekorsantaksi.github.io/</id>
+  <updated>2026-11-19T00:44:20.403Z</updated>
+  <author><name>Düzce Korsan Taksi</name></author>
+  <entry>
+    <title>Düzce Korsan Taksi | Sabiha Gökçen Yolu ve Akçakoca</title>
+    <link href="https://duzcekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://duzcekorsantaksi.github.io/</id>
+    <updated>2026-11-19T00:44:20.403Z</updated>
+    <summary>Düzce korsan taksi: Sabiha Gökçen Havalimanı merkezden 182 km, Akçakoca sahili, Konuralp, Güzeldere Şelalesi, yaylalar, Gümüşova ve Kaynaşlı yolu. 7/24.</summary>
+  </entry>
+</feed>
